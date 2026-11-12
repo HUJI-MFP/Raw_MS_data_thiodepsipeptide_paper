@@ -1,0 +1,115 @@
+﻿figures,sample,peak,figure label,figure RT (min),UV apex (min),MS window start,MS window end,expected [M-H]- m/z,label ion % of base peak,scans summed,note,file name
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,1,1His,2.2,2.2,2.28,2.39,154.06,100.0,5,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak01_RT2.20_1His
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,2,2His1tg,4.4,4.4,4.47,4.56,365.1,43.7,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak02_RT4.40_2His1tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,3,1His1tg,4.8,4.77,4.62,5.17,228.04,16.0,20,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak03_RT4.77_1His1tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,4,1tg,7.2,7.18,7.2,7.57,90.99,100.0,14,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak04_RT7.18_1tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,5,1His1tg cyclic,8.4,8.42,8.35,8.82,210.03,8.0,17,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak05_RT8.42_1His1tg-cyclic
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,6,2His2tg_S-S,11.0,10.94,10.99,11.1,455.08,5.9,5,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak06_RT10.94_2His2tg_S-S
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,7,2His2tg,11.3,11.29,11.33,11.42,439.09,21.7,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak07_RT11.29_2His2tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,8,1His2tg_S-S,11.8,11.78,11.85,11.91,318.02,39.0,3,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak08_RT11.78_1His2tg_S-S
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,9,2His2tg,12.0,11.95,12.03,12.09,439.09,27.0,3,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak09_RT11.95_2His2tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,10,1His2tg,12.3,12.3,12.29,12.61,302.03,24.7,12,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak10_RT12.30_1His2tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,11,2His4tg,13.3,13.4,13.45,13.54,587.05,10.5,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak11_RT13.40_2His4tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,12,1His3tg,14.0,14.01,14.08,14.17,376.01,19.3,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak12_RT14.01_1His3tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,13,2tg_S-S,14.05,14.21,14.29,14.37,180.96,9.5,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak13_RT14.21_2tg_S-S
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,14,1His3tg,14.6,14.41,14.43,14.55,376.01,2.3,5,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak14_RT14.41_1His3tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,15,2tg,15.7,15.74,15.79,15.88,164.97,92.7,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak15_RT15.74_2tg
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,16,3tg_S-S,16.9,16.84,16.92,16.98,254.95,8.1,3,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak16_RT16.84_3tg_S-S
+Fig3A-C_Fig4_FigS20-S24,His+tg_no-metal,17,4tg,18.6,18.61,18.68,18.77,312.93,62.9,4,,Fig3A-C_Fig4_FigS20-S24_His+tg_no-metal_peak17_RT18.61_4tg
+Fig4,His+tg+Zn_0.2eq,1,1His,2.2,2.2,2.28,2.36,154.06,100.0,4,,Fig4_His+tg+Zn_0.2eq_peak01_RT2.20_1His
+Fig4,His+tg+Zn_0.2eq,2,1His1tg,4.8,4.8,4.65,5.2,228.04,16.1,20,,Fig4_His+tg+Zn_0.2eq_peak02_RT4.80_1His1tg
+Fig4,His+tg+Zn_0.2eq,3,1tg,7.2,7.21,7.14,7.6,90.99,100.0,17,,Fig4_His+tg+Zn_0.2eq_peak03_RT7.21_1tg
+Fig4,His+tg+Zn_0.2eq,4,1His1tg cyclic,8.4,8.42,8.47,8.82,210.03,7.0,13,,Fig4_His+tg+Zn_0.2eq_peak04_RT8.42_1His1tg-cyclic
+Fig4,His+tg+Zn_0.2eq,5,2His2tg_S-S,11.0,11.0,11.07,11.13,455.08,9.4,3,,Fig4_His+tg+Zn_0.2eq_peak05_RT11.00_2His2tg_S-S
+Fig4,His+tg+Zn_0.2eq,6,2His2tg,11.3,11.29,11.33,11.45,439.09,13.2,5,,Fig4_His+tg+Zn_0.2eq_peak06_RT11.29_2His2tg
+Fig4,His+tg+Zn_0.2eq,7,1His2tg_S-S,11.8,11.78,11.85,11.91,318.02,31.0,3,,Fig4_His+tg+Zn_0.2eq_peak07_RT11.78_1His2tg_S-S
+Fig4,His+tg+Zn_0.2eq,8,2His2tg,12.0,11.95,12.03,12.09,439.09,13.2,3,,Fig4_His+tg+Zn_0.2eq_peak08_RT11.95_2His2tg
+Fig4,His+tg+Zn_0.2eq,9,1His2tg,12.3,12.3,12.38,12.58,302.03,24.1,8,,Fig4_His+tg+Zn_0.2eq_peak09_RT12.30_1His2tg
+Fig4,His+tg+Zn_0.2eq,10,2His4tg,13.3,13.34,13.42,13.51,587.05,12.0,4,,Fig4_His+tg+Zn_0.2eq_peak10_RT13.34_2His4tg
+Fig4,His+tg+Zn_0.2eq,11,1His3tg,14.0,14.01,14.08,14.14,376.01,16.7,3,,Fig4_His+tg+Zn_0.2eq_peak11_RT14.01_1His3tg
+Fig4,His+tg+Zn_0.2eq,12,2tg_S-S,14.05,14.21,14.29,14.35,180.96,17.0,3,,Fig4_His+tg+Zn_0.2eq_peak12_RT14.21_2tg_S-S
+Fig4,His+tg+Zn_0.2eq,13,1His3tg,14.6,14.15,14.06,14.29,376.01,8.4,9,,Fig4_His+tg+Zn_0.2eq_peak13_RT14.15_1His3tg
+Fig4,His+tg+Zn_0.2eq,14,2tg,15.7,15.71,15.79,15.88,164.97,95.3,4,,Fig4_His+tg+Zn_0.2eq_peak14_RT15.71_2tg
+Fig4,His+tg+Zn_0.2eq,15,3tg_S-S,16.9,16.84,16.92,17.01,254.95,8.9,4,,Fig4_His+tg+Zn_0.2eq_peak15_RT16.84_3tg_S-S
+Fig4,His+tg+Zn_0.2eq,16,4tg,18.6,18.61,18.68,18.74,312.93,66.3,3,,Fig4_His+tg+Zn_0.2eq_peak16_RT18.61_4tg
+Fig4,His+tg+Zn_0.2eq,17,2His1tg,4.4,4.51,4.56,4.65,365.1,30.7,4,,Fig4_His+tg+Zn_0.2eq_peak17_RT4.51_2His1tg
+Fig3A_Fig4,His+tg+Zn_1eq,1,1His,2.2,2.27,2.33,2.45,154.06,100.0,5,,Fig3A_Fig4_His+tg+Zn_1eq_peak01_RT2.27_1His
+Fig3A_Fig4,His+tg+Zn_1eq,2,1His1tg,5.0,4.99,4.94,5.34,228.04,22.4,15,,Fig3A_Fig4_His+tg+Zn_1eq_peak02_RT4.99_1His1tg
+Fig3A_Fig4,His+tg+Zn_1eq,3,1tg,7.2,7.19,7.23,7.57,90.99,100.0,13,,Fig3A_Fig4_His+tg+Zn_1eq_peak03_RT7.19_1tg
+Fig3A_Fig4,His+tg+Zn_1eq,4,1His1tg cyclic,8.7,8.76,8.82,9.14,210.03,3.0,12,,Fig3A_Fig4_His+tg+Zn_1eq_peak04_RT8.76_1His1tg-cyclic
+Fig3A_Fig4,His+tg+Zn_1eq,5,2His2tg_S-S,11.0,11.04,11.07,11.16,455.08,1.0,4,,Fig3A_Fig4_His+tg+Zn_1eq_peak05_RT11.04_2His2tg_S-S
+Fig3A_Fig4,His+tg+Zn_1eq,6,1His2tg_S-S,11.8,11.82,11.88,11.94,318.02,10.8,3,,Fig3A_Fig4_His+tg+Zn_1eq_peak06_RT11.82_1His2tg_S-S
+Fig3A_Fig4,His+tg+Zn_1eq,7,1His2tg,12.4,12.4,12.43,12.61,302.03,36.0,7,,Fig3A_Fig4_His+tg+Zn_1eq_peak07_RT12.40_1His2tg
+Fig3A_Fig4,His+tg+Zn_1eq,8,1His3tg,14.0,14.05,14.11,14.17,376.01,11.8,3,,Fig3A_Fig4_His+tg+Zn_1eq_peak08_RT14.05_1His3tg
+Fig3A_Fig4,His+tg+Zn_1eq,9,2tg_S-S,14.05,14.22,14.29,14.35,180.96,20.5,3,,Fig3A_Fig4_His+tg+Zn_1eq_peak09_RT14.22_2tg_S-S
+Fig3A_Fig4,His+tg+Zn_1eq,11,2tg,15.7,15.73,15.79,15.88,164.97,100.0,4,,Fig3A_Fig4_His+tg+Zn_1eq_peak11_RT15.73_2tg
+Fig3A_Fig4,His+tg+Zn_1eq,12,3tg_S-S,16.9,16.89,16.95,17.04,254.95,20.7,4,,Fig3A_Fig4_His+tg+Zn_1eq_peak12_RT16.89_3tg_S-S
+Fig3A_Fig4,His+tg+Zn_1eq,13,4tg,18.6,18.59,18.66,18.77,312.93,41.9,5,,Fig3A_Fig4_His+tg+Zn_1eq_peak13_RT18.59_4tg
+Fig4,His+tg+Zn_5eq,1,1His,2.2,2.28,2.36,2.51,154.06,53.5,6,,Fig4_His+tg+Zn_5eq_peak01_RT2.28_1His
+Fig4,His+tg+Zn_5eq,2,1His1tg,2.7,2.77,2.85,2.91,228.04,6.2,3,,Fig4_His+tg+Zn_5eq_peak02_RT2.77_1His1tg
+Fig4,His+tg+Zn_5eq,3,1His1tg,5.1,5.12,5.2,5.34,228.04,10.7,6,,Fig4_His+tg+Zn_5eq_peak03_RT5.12_1His1tg
+Fig4,His+tg+Zn_5eq,4,1tg,7.1,7.12,7.2,7.51,90.99,100.0,12,,Fig4_His+tg+Zn_5eq_peak04_RT7.12_1tg
+Fig4,His+tg+Zn_5eq,5,1His2tg_S-S,11.8,11.78,11.85,11.91,318.02,21.1,3,,Fig4_His+tg+Zn_5eq_peak05_RT11.78_1His2tg_S-S
+Fig4,His+tg+Zn_5eq,6,2tg_S-S,14.2,14.18,14.26,14.34,180.96,43.6,4,,Fig4_His+tg+Zn_5eq_peak06_RT14.18_2tg_S-S
+Fig4,His+tg+Zn_5eq,7,2tg,15.7,15.71,15.79,15.88,164.97,100.0,4,,Fig4_His+tg+Zn_5eq_peak07_RT15.71_2tg
+Fig4,His+tg+Zn_5eq,8,3tg_S-S,16.9,16.84,16.92,17.01,254.95,100.0,4,,Fig4_His+tg+Zn_5eq_peak08_RT16.84_3tg_S-S
+Fig4,His+tg+Zn_5eq,9,4tg,18.6,18.58,18.66,18.8,312.93,27.8,6,,Fig4_His+tg+Zn_5eq_peak09_RT18.58_4tg
+Fig4,His+tg+Zn_5eq,10,5tg,20.1,20.05,20.1,20.19,386.92,81.4,4,,Fig4_His+tg+Zn_5eq_peak10_RT20.05_5tg
+Fig3B,His+tg+Co,1,1His,2.2,2.25,2.33,2.45,154.06,100.0,5,,Fig3B_His+tg+Co_peak01_RT2.25_1His
+Fig3B,His+tg+Co,2,1His1tg,4.8,4.88,4.94,5.29,228.04,20.8,13,,Fig3B_His+tg+Co_peak02_RT4.88_1His1tg
+Fig3B,His+tg+Co,3,1tg,7.3,7.34,7.2,7.75,90.99,100.0,20,,Fig3B_His+tg+Co_peak03_RT7.34_1tg
+Fig3B,His+tg+Co,4,1His1tg cyclic,8.8,8.82,8.9,9.05,210.03,3.3,6,,Fig3B_His+tg+Co_peak04_RT8.82_1His1tg-cyclic
+Fig3B,His+tg+Co,5,1His2tg,12.3,12.35,12.41,12.55,302.03,32.1,6,,Fig3B_His+tg+Co_peak05_RT12.35_1His2tg
+Fig3B,His+tg+Co,6,2tg,15.7,15.71,15.76,15.88,164.97,100.0,5,,Fig3B_His+tg+Co_peak06_RT15.71_2tg
+Fig3C,His+tg+Na,1,1His,2.2,2.27,2.31,2.39,154.06,100.0,4,,Fig3C_His+tg+Na_peak01_RT2.27_1His
+Fig3C,His+tg+Na,2,1His1tg,4.8,4.79,4.62,5.17,228.04,16.0,20,,Fig3C_His+tg+Na_peak02_RT4.79_1His1tg
+Fig3C,His+tg+Na,3,1tg,7.3,7.36,7.23,7.75,90.99,100.0,19,,Fig3C_His+tg+Na_peak03_RT7.36_1tg
+Fig3C,His+tg+Na,4,1His1tg cyclic,8.8,8.84,8.64,9.02,210.03,6.5,14,,Fig3C_His+tg+Na_peak04_RT8.84_1His1tg-cyclic
+Fig3C,His+tg+Na,5,1His2tg,12.3,12.28,12.29,12.58,302.03,27.1,11,,Fig3C_His+tg+Na_peak05_RT12.28_1His2tg
+Fig3C,His+tg+Na,6,2tg,15.7,15.72,15.79,15.88,164.97,100.0,4,,Fig3C_His+tg+Na_peak06_RT15.72_2tg
+FigS20,His+tg+Li,1,1His,2.2,2.21,2.28,2.39,154.06,100.0,5,,FigS20_His+tg+Li_peak01_RT2.21_1His
+FigS20,His+tg+Li,2,1His1tg,4.8,4.88,4.91,5.26,228.04,16.1,13,,FigS20_His+tg+Li_peak02_RT4.88_1His1tg
+FigS20,His+tg+Li,3,1tg,7.3,7.36,7.4,7.72,90.99,100.0,12,,FigS20_His+tg+Li_peak03_RT7.36_1tg
+FigS20,His+tg+Li,4,1His1tg cyclic,8.8,9.07,9.13,9.4,210.03,3.5,10,,FigS20_His+tg+Li_peak04_RT9.07_1His1tg-cyclic
+FigS20,His+tg+Li,5,1His2tg,12.3,12.34,12.4,12.52,302.03,29.8,5,,FigS20_His+tg+Li_peak05_RT12.34_1His2tg
+FigS20,His+tg+Li,6,2tg,15.7,15.79,15.85,15.94,164.97,96.0,4,,FigS20_His+tg+Li_peak06_RT15.79_2tg
+FigS21,His+tg+K,1,1His,2.2,2.2,2.28,2.34,154.06,100.0,3,,FigS21_His+tg+K_peak01_RT2.20_1His
+FigS21,His+tg+K,2,1His1tg,4.8,4.81,4.74,5.2,228.04,16.1,17,,FigS21_His+tg+K_peak02_RT4.81_1His1tg
+FigS21,His+tg+K,3,1tg,7.3,7.24,7.05,7.63,90.99,100.0,21,,FigS21_His+tg+K_peak03_RT7.24_1tg
+FigS21,His+tg+K,4,1His1tg cyclic,8.8,8.92,8.99,9.31,210.03,6.3,12,,FigS21_His+tg+K_peak04_RT8.92_1His1tg-cyclic
+FigS21,His+tg+K,5,1His2tg,12.3,12.33,12.4,12.55,302.03,26.5,6,,FigS21_His+tg+K_peak05_RT12.33_1His2tg
+FigS21,His+tg+K,6,2tg,15.7,15.77,15.85,15.94,164.97,87.9,4,,FigS21_His+tg+K_peak06_RT15.77_2tg
+FigS22,His+tg+Mg,1,1His,2.2,2.21,2.28,2.42,154.06,100.0,6,,FigS22_His+tg+Mg_peak01_RT2.21_1His
+FigS22,His+tg+Mg,2,1His1tg,4.8,5.1,5.17,5.37,228.04,36.7,8,,FigS22_His+tg+Mg_peak02_RT5.10_1His1tg
+FigS22,His+tg+Mg,3,1tg,7.3,7.3,7.37,7.69,90.99,100.0,12,,FigS22_His+tg+Mg_peak03_RT7.30_1tg
+FigS22,His+tg+Mg,4,1His1tg cyclic,8.8,8.81,8.87,8.93,210.03,0.1,3,,FigS22_His+tg+Mg_peak04_RT8.81_1His1tg-cyclic
+FigS22,His+tg+Mg,5,1His2tg,12.3,12.25,12.32,12.38,302.03,3.5,3,,FigS22_His+tg+Mg_peak05_RT12.25_1His2tg
+FigS22,His+tg+Mg,6,2tg,15.7,15.78,15.85,15.91,164.97,100.0,3,,FigS22_His+tg+Mg_peak06_RT15.78_2tg
+FigS23,His+tg+Ni,1,1His,2.2,2.2,2.28,2.39,154.06,100.0,5,,FigS23_His+tg+Ni_peak01_RT2.20_1His
+FigS23,His+tg+Ni,2,1His1tg,4.8,5.04,5.11,5.4,228.04,31.0,11,,FigS23_His+tg+Ni_peak02_RT5.04_1His1tg
+FigS23,His+tg+Ni,3,1tg,7.3,7.29,7.37,7.69,90.99,100.0,12,,FigS23_His+tg+Ni_peak03_RT7.29_1tg
+FigS23,His+tg+Ni,4,1His1tg cyclic,8.8,9.23,9.31,9.45,210.03,1.2,6,,FigS23_His+tg+Ni_peak04_RT9.23_1His1tg-cyclic
+FigS23,His+tg+Ni,5,1His2tg,12.3,12.36,12.43,12.49,302.03,36.1,3,,FigS23_His+tg+Ni_peak05_RT12.36_1His2tg
+FigS23,His+tg+Ni,6,2tg,15.7,15.77,15.85,15.94,164.97,100.0,4,,FigS23_His+tg+Ni_peak06_RT15.77_2tg
+FigS24,His+tg+Cu,1,1His,2.2,2.19,2.28,2.51,154.06,100.0,9,,FigS24_His+tg+Cu_peak01_RT2.19_1His
+FigS24,His+tg+Cu,2,1His1tg,4.8,5.09,5.14,5.32,228.04,23.7,7,,FigS24_His+tg+Cu_peak02_RT5.09_1His1tg
+FigS24,His+tg+Cu,3,1tg,7.3,7.29,7.28,7.69,90.99,100.0,15,,FigS24_His+tg+Cu_peak03_RT7.29_1tg
+FigS24,His+tg+Cu,4,1His1tg cyclic,8.8,8.79,8.87,8.93,210.03,0.2,3,,FigS24_His+tg+Cu_peak04_RT8.79_1His1tg-cyclic
+FigS24,His+tg+Cu,5,1His2tg,12.3,12.38,12.46,12.52,302.03,23.0,3,,FigS24_His+tg+Cu_peak05_RT12.38_1His2tg
+FigS24,His+tg+Cu,6,2tg,15.7,15.68,15.76,15.88,164.97,100.0,5,,FigS24_His+tg+Cu_peak06_RT15.68_2tg
+Fig2C_Fig3D,Ala+tg_no-metal,1,1tg,7.3,7.23,7.05,7.63,90.99,100.0,21,,Fig2C_Fig3D_Ala+tg_no-metal_peak01_RT7.23_1tg
+Fig2C_Fig3D,Ala+tg_no-metal,2,1tg1Ala,12.6,12.24,12.32,12.43,162.02,24.3,5,,Fig2C_Fig3D_Ala+tg_no-metal_peak02_RT12.24_1tg1Ala
+Fig2C_Fig3D,Ala+tg_no-metal,3,1tg2Ala,12.9,12.79,12.84,12.96,233.06,15.4,5,,Fig2C_Fig3D_Ala+tg_no-metal_peak03_RT12.79_1tg2Ala
+Fig2C_Fig3D,Ala+tg_no-metal,4,1tg2Ala,13.2,13.25,13.33,13.42,233.06,16.6,4,,Fig2C_Fig3D_Ala+tg_no-metal_peak04_RT13.25_1tg2Ala
+Fig2C_Fig3D,Ala+tg_no-metal,5,2tg3Ala,14.3,14.61,14.69,14.75,378.08,70.6,3,,Fig2C_Fig3D_Ala+tg_no-metal_peak05_RT14.61_2tg3Ala
+Fig2C_Fig3D,Ala+tg_no-metal,6,2tg,15.2,15.8,15.88,15.94,164.97,63.2,3,,Fig2C_Fig3D_Ala+tg_no-metal_peak06_RT15.80_2tg
+Fig2C_Fig3D,Ala+tg_no-metal,7,4tg1Ala,18.3,17.85,17.9,18.02,383.97,75.2,5,,Fig2C_Fig3D_Ala+tg_no-metal_peak07_RT17.85_4tg1Ala
+Fig2C_Fig3D,Ala+tg_no-metal,8,4tg,18.6,18.58,18.66,18.72,312.93,56.5,3,,Fig2C_Fig3D_Ala+tg_no-metal_peak08_RT18.58_4tg
+Fig3D,Ala+tg+Zn,1,1tg,7.3,7.4,7.37,7.66,90.99,100.0,11,,Fig3D_Ala+tg+Zn_peak01_RT7.40_1tg
+Fig3D,Ala+tg+Zn,2,1tg1Ala,12.6,12.26,12.35,12.41,162.02,47.6,3,,Fig3D_Ala+tg+Zn_peak02_RT12.26_1tg1Ala
+Fig3D,Ala+tg+Zn,3,1tg2Ala,12.9,12.9,12.81,13.04,233.06,1.2,9,,Fig3D_Ala+tg+Zn_peak03_RT12.90_1tg2Ala
+Fig3D,Ala+tg+Zn,4,1tg2Ala,13.2,13.28,13.36,13.42,233.06,0.5,3,,Fig3D_Ala+tg+Zn_peak04_RT13.28_1tg2Ala
+Fig3D,Ala+tg+Zn,5,2tg3Ala,14.3,14.26,14.23,14.4,378.08,0.1,7,,Fig3D_Ala+tg+Zn_peak05_RT14.26_2tg3Ala
+Fig3D,Ala+tg+Zn,6,2tg,15.2,15.77,15.85,15.97,164.97,94.6,5,,Fig3D_Ala+tg+Zn_peak06_RT15.77_2tg
+Fig3D,Ala+tg+Zn,7,4tg1Ala,18.3,17.91,17.93,18.05,383.97,3.7,5,,Fig3D_Ala+tg+Zn_peak07_RT17.91_4tg1Ala
+Fig3D,Ala+tg+Zn,8,4tg,18.6,18.57,18.66,18.72,312.93,77.7,3,,Fig3D_Ala+tg+Zn_peak08_RT18.57_4tg
