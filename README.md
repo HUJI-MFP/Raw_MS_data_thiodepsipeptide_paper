@@ -33,8 +33,8 @@ Each mzML file has a UV CSV with the same name (`….dx_DAD1A.CSV`).
 
 ## How the spectra were made
 
-- Negative-mode ESI. For each labelled peak, the extracted-ion chromatogram (EIC) of the expected [M−H]⁻ ion (±0.5 Da) was taken near the figure's retention time, after aligning the UV and MS time axes.
-- All MS scans across the EIC peak at half height were summed, binned at 0.1 Da and centroided. Peaks of 5% or more of the base peak are labelled with their *m/z*.
+- Negative-mode ESI. For each labelled peak, the time range was set by the extracted-ion chromatogram (EIC) of the expected [M−H]⁻ ion (±0.5 Da): the width of its peak at half height, near the figure's retention time, after aligning the UV and MS time axes.
+- The full negative-mode MS scans within that range (the same scans the TIC is built from) were summed into one spectrum, binned at 0.1 Da and centroided. Every ion eluting in that range is included, not only the extracted one. Peaks of 5% or more of the base peak are labelled with their *m/z*.
 - Spectra are numbered to match the peak numbers in the figures. A peak that appears in several figures (the no-metal His + tg trace) is shown once.
 - File names read `{figures}_{sample}_peak{NN}_RT{UV retention time}_{label}`.
 
